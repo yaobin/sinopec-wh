@@ -70,11 +70,11 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /sinopec-wh/archive.html
-  categories_path : /sinopec-wh/categories.html
-  tags_path : /sinopec-wh/tags.html
-  atom_path : /sinopec-wh/atom.xml
-  rss_path : /sinopec-wh/rss.xml
+  archive_path: [BASE_PATH]/archive.html
+  categories_path : [BASE_PATH]/categories.html
+  tags_path : [BASE_PATH]/tags.html
+  atom_path : [BASE_PATH]/atom.xml
+  rss_path : [BASE_PATH]/rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
