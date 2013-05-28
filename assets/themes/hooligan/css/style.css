@@ -81,7 +81,7 @@ pre > code {
 }
 
 /* line 74, ../_sass/_base.scss */
-hr {
+hr { 
   border: none;
   background: rgba(0, 0, 0, 0.7);
   height: 1px;
