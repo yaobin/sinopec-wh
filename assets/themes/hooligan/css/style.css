@@ -266,7 +266,7 @@ a.btn.disabled, a.btn.disabled.disabled {
 /* line 235, ../_sass/_base.scss */
 .tag_box.inline a:hover,
 .tag_box a:hover {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(0, 125, 192, 0.8);
 }
 
 /* Page-specific */
