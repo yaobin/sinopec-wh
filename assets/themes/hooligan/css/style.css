@@ -248,6 +248,7 @@ a.btn.disabled, a.btn.disabled.disabled {
 .tag_box a span {
   vertical-align: super;
   font-size: 0.8em;
+  color: rgb(0, 255, 10);
 }
 
 /* line 223, ../_sass/_base.scss */
@@ -255,7 +256,7 @@ a.btn.disabled, a.btn.disabled.disabled {
 .tag_box a {
   padding: 3px 6px;
   margin: 2px;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.2);
   color: white;
   border-radius: 3px;
   text-decoration: none;
