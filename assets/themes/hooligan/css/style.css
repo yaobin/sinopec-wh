@@ -91,6 +91,11 @@ hr {
 /* line 81, ../_sass/_base.scss */
 .navbar {
   margin-bottom: 0;
+  
+    margin-left: auto;
+    margin-right: auto;
+    width: 1210px;
+
 }
 /* line 83, ../_sass/_base.scss */
 .navbar div.navbar-inner {
