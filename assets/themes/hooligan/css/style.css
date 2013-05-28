@@ -93,7 +93,7 @@ hr {
 
     margin-left: auto;
     margin-right: auto;
-    width: 1210px;
+    max-width: 1210px;
 
 }
 /* line 83, ../_sass/_base.scss */
