@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 你好，github的博客
+title: 你好，GitHub的博客
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
