@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 你好，GitHub的博客
-tagline: 博客,github
+tagline: [博客, github]
 ---
 {% include JB/setup %}
 
