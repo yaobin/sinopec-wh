@@ -1,8 +1,8 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category : 中文分类
+tagline: "可以显示一段标签，而且是有空格 和标点符号的！"
+tags : [介绍, 菜鸟, markdown, 教程]
 ---
 {% include JB/setup %}
 ## 欢迎使用 MarkdownPad 2 ##
