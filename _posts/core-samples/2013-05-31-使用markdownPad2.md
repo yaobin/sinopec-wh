@@ -1,7 +1,9 @@
 ---
 published: true
 layout: post
-category: lessons, beginner
+categories:
+  - lessons
+  - beginner
 tagline: 可以显示一段标签，而且是有空格 和标点符号的！
 tags:
   - 介绍
@@ -10,7 +12,7 @@ tags:
   - 教程
 ---
 
-![](/sinopec-wh/_posts/core-samples/T1YY.wXXddXXXXXXXX_!!0-item_pic.jpg_310x310.jpg){% include JB/setup %}
+![](/sinopec-wh/assert/core-samples/T1YY.wXXddXXXXXXXX_!!0-item_pic.jpg_310x310.jpg){% include JB/setup %}
 ## 欢迎使用 MarkdownPad 2 ##
 
 **MarkdownPad** 是 Windows 平台上一个功能完善的 Markdown 编辑器。
