@@ -40,4 +40,10 @@ tags: [helo, jfeiofo]
      include io.h
      void main(){
       }
+
+{% highlight ruby linenos %}
+  def foo
+    puts 'foo'
+  end
+{% endhighlight %}
 {{ page.url }}
