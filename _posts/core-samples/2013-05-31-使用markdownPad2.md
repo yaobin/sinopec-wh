@@ -3,6 +3,7 @@ published: true
 layout: post
 category: 中文分类
 tagline: 可以显示一段标签，而且是有空格 和标点符号的！
+bussiness: 1号店
 tags:
   - 介绍
   - 菜鸟
