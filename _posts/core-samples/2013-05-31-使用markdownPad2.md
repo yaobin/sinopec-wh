@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: [ 编辑器, 多分类 ]
+category:  多分类
 tagline: 可以显示一段标签，而且是有空格 和标点符号的！
 tags: [helo, jfeiofo]
 ---
