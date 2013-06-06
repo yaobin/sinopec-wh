@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: [lessons, beginner]
+category: lessons, beginner
 tagline: 可以显示一段标签，而且是有空格 和标点符号的！
 tags:
   - 介绍
