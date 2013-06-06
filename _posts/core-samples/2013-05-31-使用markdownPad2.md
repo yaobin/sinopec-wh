@@ -3,11 +3,7 @@ published: true
 layout: post
 category: 编辑器
 tagline: 可以显示一段标签，而且是有空格 和标点符号的！
-tags:
-  - 介绍
-  - 菜鸟
-  - markdown
-  - 教程
+tags: [helo, jfeiofo]
 ---
 
 ![](/sinopec-wh/assets/core-samples/T1YY.wXXddXXXXXXXX_!!0-item_pic.jpg_310x310.jpg){% include JB/setup %}
