@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: [ 'lessons', 'beginner' ]
+categories: 编辑器
 tagline: 可以显示一段标签，而且是有空格 和标点符号的！
 tags:
   - 介绍
@@ -40,7 +40,8 @@ tags:
  MarkdownPad 支持多种 Markdown 解析引擎，包括 标准 Markdown 、 Markdown 扩展 (包括表格支持) 以及 GitHub 风格 Markdown 。
 
  有了标签式多文档界面、PDF 导出、内置的图片上传工具、会话管理、拼写检查、自动保存、语法高亮以及内置的 CSS 管理器，您可以随心所欲地使用 MarkdownPad。
-
+```
      include io.h
      void main(){
       }
+{{ page.url }}
