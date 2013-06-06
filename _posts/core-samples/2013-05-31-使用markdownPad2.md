@@ -10,7 +10,7 @@ tags:
   - 教程
 ---
 
-![](/assets/core-samples/T1YY.wXXddXXXXXXXX_!!0-item_pic.jpg_310x310.jpg){% include JB/setup %}
+![](/sinopec-wh/assets/core-samples/T1YY.wXXddXXXXXXXX_!!0-item_pic.jpg_310x310.jpg){% include JB/setup %}
 ## 欢迎使用 MarkdownPad 2 ##
 
 **MarkdownPad** 是 Windows 平台上一个功能完善的 Markdown 编辑器。
