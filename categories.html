@@ -13,14 +13,12 @@ group: navigation
 
 
 {% for category in site.categories %}
+  {% if category[0] == 'lessons' %}
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
   <ul>
     {% assign pages_list = category[1] %}
     {% include JB/pages_list %}
   </ul>
+  {% endif %}
 {% endfor %}
 
-{% assign array_list = ['hello', 'jfiej', 'jifei', 'jiejie', 'wwoe', 'wourwor', 'uereoopd'] %}
-{% for item in array_list %}
-   <ul>{{ item }} </ul>
- {% endfor %}
